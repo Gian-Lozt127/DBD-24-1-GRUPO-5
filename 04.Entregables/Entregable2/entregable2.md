@@ -8,9 +8,11 @@
   - Procesos
       - [Proceso de distribucion](procesodistribucion.md)
     
-  - Diagrama de procesos TO BE:
+  - Diagrama de procesos AS IS:
 
-      - [ProcesosTOBE](ProcesosTOBE.md)
+      - [Procesos AS IS](https://github.com/QuispeCesar/DBD-24-1-GRUPO-4/blob/main/04.Entregables/Entregable2/ProcesosASIS.md)
+        
+  - Diagrama de procesos TO BE:
 
 # Módulos de trabajo
 - [Módulos](Modulos.md)
